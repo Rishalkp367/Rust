@@ -130,4 +130,6 @@ fn main() {
    doubly_ll.print();
    doubly_ll.remove_back();
    doubly_ll.print();
+   doubly_ll.remove_front();
+   doubly_ll.print();
 }
